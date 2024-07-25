@@ -1,7 +1,7 @@
 package aula2;
 
 import java.util.Scanner;
-public class j {
+public class aula2 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner (System.in);
 		String x;
@@ -12,7 +12,7 @@ public class j {
 		y = sc.nextInt();
 		z = sc.nextDouble();
 		
-		System.out.println("Dados Digitados: ");
+		System.out.println("Dados Digitados:");
 		System.out.println(x);
 		System.out.println(y);
 		System.out.println(z);
